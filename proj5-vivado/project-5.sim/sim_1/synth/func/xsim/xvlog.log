@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/tmpProjs/project-5/project-5.sim/sim_1/synth/func/xsim/testbench_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_module
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/megan/Documents/GitHub/ACS-Project-5/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

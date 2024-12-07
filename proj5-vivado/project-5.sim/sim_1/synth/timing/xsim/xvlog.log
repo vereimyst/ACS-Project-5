@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/tmpProjs/project-5/project-5.sim/sim_1/synth/timing/xsim/testbench_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_module
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/megan/Documents/GitHub/ACS-Project-5/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+ERROR: [VRFC 10-4982] syntax error near 'always' [C:/Users/megan/Documents/GitHub/ACS-Project-5/testbench.v:30]
+ERROR: [VRFC 10-8549] Verilog 2000 keyword 'always' used in incorrect context [C:/Users/megan/Documents/GitHub/ACS-Project-5/testbench.v:30]
+ERROR: [VRFC 10-8530] module 'testbench' is ignored due to previous errors [C:/Users/megan/Documents/GitHub/ACS-Project-5/testbench.v:3]
